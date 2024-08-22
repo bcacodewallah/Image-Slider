@@ -1,6 +1,7 @@
 body {
     background-color: black;
 }
+/* BCA-Codewallah */
 
 .con {
     margin-top: 100px;
@@ -17,7 +18,7 @@ body {
     object-fit: cover;
     transition: all ease-in-out 0.5s;
 }
-
+/* BCA-Codewallah */
 .con img:hover {
     width: 25%;
 }
