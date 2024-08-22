@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.con {
+    margin-top: 100px;
+    width: auto;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+}
+
+.con img {
+    width: 8%;
+    height: 100%;
+    object-fit: cover;
+    transition: all ease-in-out 0.5s;
+}
+
+.con img:hover {
+    width: 25%;
+}
